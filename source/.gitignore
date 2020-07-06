@@ -1,0 +1,6 @@
+config.json
+raid_db
+raid_bot.log
+__pycache__
+bot-env
+messages.mo

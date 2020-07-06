@@ -1,0 +1,540 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-07-04 19:31+BST\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: utf-8\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: apply_handling.py:13
+msgid "{0} I will send you the info in a pm."
+msgstr ""
+
+#: apply_handling.py:17
+msgid "Hello there! Thanks for applying to {0}."
+msgstr ""
+
+#: apply_handling.py:21
+msgid "{0} you have not allowed me to send you a pm."
+msgstr ""
+
+#: apply_handling.py:25
+msgid "Please respond with your characters' names and classes."
+msgstr ""
+
+#: apply_handling.py:26
+msgid "Please respond what times you are generally available for raiding (server time)."
+msgstr ""
+
+#: apply_handling.py:31
+msgid "Sorry, you took too long to respond."
+msgstr ""
+
+#: apply_handling.py:34
+msgid "A new application has arrived!"
+msgstr ""
+
+#: apply_handling.py:35
+msgid "Discord username:"
+msgstr ""
+
+#: apply_handling.py:36
+msgid "Discord nickname:"
+msgstr ""
+
+#: apply_handling.py:37 apply_handling.py:38
+msgid "User's response to '{0}':"
+msgstr ""
+
+#: apply_handling.py:42
+msgid "An error occurred."
+msgstr ""
+
+#: apply_handling.py:44
+msgid "Your application has been successfully submitted. An officer will be in touch soon!"
+msgstr ""
+
+#: dev_cog.py:21
+msgid "Extension loaded."
+msgstr ""
+
+#: dev_cog.py:24
+msgid "Extension reloaded."
+msgstr ""
+
+#: dev_cog.py:26
+msgid "Extension not found."
+msgstr ""
+
+#: dev_cog.py:28
+msgid "Extension failed to load."
+msgstr ""
+
+#: dwarves.py:3
+msgid ""
+"**Ing\303\263r I the Cruel**: \"How much more can your mortal form take?\" - Applies 1 stack of incoming healing debuff.\n"
+msgstr ""
+
+#: dwarves.py:5
+msgid ""
+"**\303\223iko II Rill-Seeker**: \"I seek the mithril stream.\" - Ice line\n"
+msgstr ""
+
+#: dwarves.py:6
+msgid ""
+"**D\303\263bruz IV the Unheeding**: \"You look like a weakling.\"/\"I challenge YOU!\" - Picks random target; requires force taunt.\n"
+msgstr ""
+
+#: dwarves.py:8
+msgid ""
+"**Mozun III Wyrmbane**: \"I will not abide a worm to live.\" - Summons worm.\n"
+msgstr ""
+
+#: dwarves.py:9
+msgid ""
+"**K\303\272zek Squint-Eye**: TBD - Stand behind him in close range to avoid stun.\n"
+msgstr ""
+
+#: dwarves.py:10
+msgid ""
+"**L\303\272vek I the Rueful**: \"I am watching you...\" - +100% melee damage and crit chance on himself.\n"
+msgstr ""
+
+#: dwarves.py:11
+msgid ""
+"**\303\223iko I the Bellower**: \"Sumrutu Vragomu\" - Induction that increases dwarfs' damage.\n"
+msgstr ""
+
+#: dwarves.py:12
+msgid ""
+"**Kamluz II Stoneface**: \"You face the Stoneface!\" - +100% crit chance and +75% damage reflect effect. \n"
+msgstr ""
+
+#: dwarves.py:13
+msgid ""
+"**D\303\263bruz II Stark-heart**: \"The Zhelruka clan is mine to protect.\" - Allies take -50% incoming damage, must be interrupted.\n"
+msgstr ""
+
+#: dwarves.py:15
+msgid ""
+"**Br\303\241ntokh II the Sunderer**: \"I'll bring this mountain down on your heads!\" - 20m AoE.\n"
+msgstr ""
+
+#: dwarves.py:16
+msgid ""
+"**Br\303\272nek I Clovenbrow**: \"Taste my axes!\" - DoT on random person until interrupted.\n"
+msgstr ""
+
+#: dwarves.py:17
+msgid ""
+"**R\303\272rek VI the Shamed**: \"What have I done?\"/\"I have failed my people.\" - Bubble on dwarf.\n"
+msgstr ""
+
+#: dwarves.py:18
+msgid "**Br\303\241ntokh I Cracktooth**: \"Want to know why they call me cracktooth?\" - AoE swipe (low damage)."
+msgstr ""
+
+#: initialise.py:7
+msgid ""
+"Please mute this bot command channel or lose your sanity like me.\n"
+msgstr ""
+
+#: initialise.py:8
+msgid ""
+"React to this post with each class role you want to sign up for or click {0} to remove all your class roles.\n"
+msgstr ""
+
+#: initialise.py:9
+msgid "*Further commands that can be used in this channel*:"
+msgstr ""
+
+#: initialise.py:10
+msgid "`{0}roles` Shows which class roles you currently have."
+msgstr ""
+
+#: initialise.py:11
+msgid "`{0}dwarves` Shows a list of the 13 dwarves in the Anvil raid with their associated skills."
+msgstr ""
+
+#: initialise.py:12
+msgid "`{0}timezone` to set your default time zone to be used for your raid commands."
+msgstr ""
+
+#: initialise.py:13
+msgid "`{0}apply` to apply to {1}."
+msgstr ""
+
+#: initialise.py:14
+msgid "`{0}help` for further instructions."
+msgstr ""
+
+#: initialise.py:15
+msgid "`{0}about` to see the bot info."
+msgstr ""
+
+#: main.py:134
+msgid "Please use this command in a server."
+msgstr ""
+
+#: main.py:193
+msgid "A bot for scheduling raids!"
+msgstr ""
+
+#: main.py:194
+msgid "**Developer:** {0}"
+msgstr ""
+
+#: main.py:195
+msgid "**[Source code]({0})**"
+msgstr ""
+
+#: main.py:196
+msgid ""
+"**[Support server]({0})**\n"
+msgstr ""
+
+#: main.py:197
+msgid "**Hosted by:** {0}"
+msgstr ""
+
+#: main.py:198
+msgid "**Command prefix:** {0}"
+msgstr ""
+
+#: main.py:199
+msgid ""
+"**Uptime:** {0}.\n"
+msgstr ""
+
+#: main.py:200
+msgid "**Using version:** {0}"
+msgstr ""
+
+#: main.py:201
+msgid "**Latest version:** {0}"
+msgstr ""
+
+#: raid_cog.py:34
+msgid "Failed to parse tier argument: "
+msgstr ""
+
+#: raid_cog.py:48
+msgid "server"
+msgstr ""
+
+#: raid_cog.py:56 raid_cog.py:393
+msgid "Failed to parse time argument: "
+msgstr ""
+
+#: raid_cog.py:77
+msgid "Please check the date. Posting a raid for: "
+msgstr ""
+
+#: raid_cog.py:95
+msgid "%A %#I:%M %p"
+msgstr ""
+
+#: raid_cog.py:97
+msgid "%A %-I:%M %p"
+msgstr ""
+
+#: raid_cog.py:176
+msgid "Sets the user's default timezone to be used for raid commands."
+msgstr ""
+
+#: raid_cog.py:177
+msgid "This command allows a user to set their default timezone to be used to interpret commands issued by them. This setting will only apply to that specific user. Timezone is to be provided in the tz database format. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones"
+msgstr ""
+
+#: raid_cog.py:181
+msgid ""
+"Examples:\n"
+"{0}timezone Australia/Sydney\n"
+"{0}timezone Europe/London\n"
+"{0}timezone America/New_York"
+msgstr ""
+
+#: raid_cog.py:190
+msgid " is not a valid timezone!"
+msgstr ""
+
+#: raid_cog.py:195
+msgid "Set default timezone for {0} to {1}."
+msgstr ""
+
+#: raid_cog.py:198
+msgid "Schedules a raid"
+msgstr ""
+
+#: raid_cog.py:199
+msgid "Schedules a raid. Day/timezone will default to today/server if not specified. Usage:"
+msgstr ""
+
+#: raid_cog.py:200
+msgid ""
+"Examples:\n"
+"{0}raid Anvil 2 Friday 4pm server\n"
+"{0}raid throne t3 21:00"
+msgstr ""
+
+#: raid_cog.py:205 raid_cog.py:229
+msgid "All"
+msgstr ""
+
+#: raid_cog.py:208
+msgid "Shortcut to schedule a raid"
+msgstr ""
+
+#: raid_cog.py:209
+msgid "Schedules a raid with the name of the command, tier from channel name and bosses 'All'. Day/timezone will default to today/server if not specified. Usage:"
+msgstr ""
+
+#: raid_cog.py:211
+msgid ""
+"Examples:\n"
+"{0}anvil Friday 4pm server\n"
+"{0}anvil 21:00 BST"
+msgstr ""
+
+#: raid_cog.py:218
+msgid "unknown raid"
+msgstr ""
+
+#: raid_cog.py:222
+msgid "Channel name does not specify tier."
+msgstr ""
+
+#: raid_cog.py:222
+msgid "Defaulting to tier 1."
+msgstr ""
+
+#: raid_cog.py:251 raid_cog.py:489 raid_cog.py:510
+msgid "<Available>"
+msgstr ""
+
+#: raid_cog.py:265
+msgid "Error: Missing 'Manage Messages' permission to pin the raid post."
+msgstr ""
+
+#: raid_cog.py:279
+msgid "You do not have permission to change the raid settings."
+msgstr ""
+
+#: raid_cog.py:287
+msgid "Enabling roster for this raid."
+msgstr ""
+
+#: raid_cog.py:294
+msgid "Dearest raid leader, {0} has cancelled their availability. Please note they were assigned a spot in the raid."
+msgstr ""
+
+#: raid_cog.py:303
+msgid "{0} you have not assigned yourself any class roles."
+msgstr ""
+
+#: raid_cog.py:313
+msgid "Error: Missing 'Manage roles' permission to assign the class role."
+msgstr ""
+
+#: raid_cog.py:328
+msgid "That's an error. Check the logs."
+msgstr ""
+
+#: raid_cog.py:336
+msgid "Please respond with 'b(oss)', 'd(ate)', 'r(oster)' or 't(ier)' to indicate which setting you wish to update for this raid."
+msgstr ""
+
+#: raid_cog.py:343
+msgid "Configuration finished!"
+msgstr ""
+
+#: raid_cog.py:348
+msgid "r"
+msgstr ""
+
+#: raid_cog.py:350
+msgid "d"
+msgstr ""
+
+#: raid_cog.py:352
+msgid "b"
+msgstr ""
+
+#: raid_cog.py:354
+msgid "t"
+msgstr ""
+
+#: raid_cog.py:364
+msgid "Please specify the new raid boss."
+msgstr ""
+
+#: raid_cog.py:383
+msgid "Please specify the new raid time."
+msgstr ""
+
+#: raid_cog.py:408
+msgid "Please specify the new raid tier."
+msgstr ""
+
+#: raid_cog.py:428
+msgid "Please respond with 'yes/no' to indicate whether you want to use the roster for this raid."
+msgstr ""
+
+#: raid_cog.py:433 raid_cog.py:444 raid_cog.py:466
+msgid "Roster configuration finished!"
+msgstr ""
+
+#: raid_cog.py:437
+msgid "n"
+msgstr ""
+
+#: raid_cog.py:440
+msgid ""
+"Roster disabled for this raid.\n"
+"Roster configuration finished!"
+msgstr ""
+
+#: raid_cog.py:443
+msgid "y"
+msgstr ""
+
+#: raid_cog.py:450
+msgid "Roster enabled for this raid."
+msgstr ""
+
+#: raid_cog.py:459
+msgid "If you wish to overwrite a default raid slot please respond with the slot number followed by the class emojis you would like. Configuration will finish after 20s of no interaction. "
+msgstr ""
+
+#: raid_cog.py:476
+msgid "No valid slot provided!"
+msgstr ""
+
+#: raid_cog.py:479
+msgid "No slot provided!"
+msgstr ""
+
+#: raid_cog.py:487
+msgid "You may only provide up to 3 classes per slot."
+msgstr ""
+
+#: raid_cog.py:491
+msgid "Classes for slot {0} updated!"
+msgstr ""
+
+#: raid_cog.py:513
+msgid "There are no players to assign for this raid!"
+msgstr ""
+
+#: raid_cog.py:517
+msgid "**Warning**: removing some noobs from available players!"
+msgstr ""
+
+#: raid_cog.py:518
+msgid "Please select the player you want to assign a spot in the raid from the list below using the corresponding reaction. Assignment will finish after {0}s of no interaction."
+msgstr ""
+
+#: raid_cog.py:522
+msgid ""
+"Available players:\n"
+"*Please wait... Loading*"
+msgstr ""
+
+#: raid_cog.py:526
+msgid "Select the class for this player."
+msgstr ""
+
+#: raid_cog.py:533
+msgid ""
+"Available players:\n"
+msgstr ""
+
+#: raid_cog.py:546 raid_cog.py:572
+msgid "Player assignment finished!"
+msgstr ""
+
+#: raid_cog.py:553
+msgid "Please select a player first!"
+msgstr ""
+
+#: raid_cog.py:564
+msgid "Removed {0} from the line up!"
+msgstr ""
+
+#: raid_cog.py:579
+msgid "{0} did not sign up with {1}!"
+msgstr ""
+
+#: raid_cog.py:584
+msgid "That is not a class, please start over!"
+msgstr ""
+
+#: raid_cog.py:590
+msgid "There are no slots available for the selected class."
+msgstr ""
+
+#: raid_cog.py:594
+msgid "Assigned {0} to {1}."
+msgstr ""
+
+#: raid_cog.py:617
+msgid " server time"
+msgstr ""
+
+#: raid_cog.py:618
+msgid "{0} {1} at {2}"
+msgstr ""
+
+#: raid_cog.py:619
+msgid "Bosses: {0}"
+msgstr ""
+
+#: raid_cog.py:622
+msgid "Time zones:"
+msgstr ""
+
+#: raid_cog.py:628
+msgid "Selected line up:"
+msgstr ""
+
+#: raid_cog.py:648
+msgid "The following {0} players are available:"
+msgstr ""
+
+#: raid_cog.py:652
+msgid "Raid time in your local time (beta)"
+msgstr ""
+
+#: raid_cog.py:747
+msgid "Gondor calls for aid! "
+msgstr ""
+
+#: raid_cog.py:753
+msgid "will you answer the call? We are forming for the raid now."
+msgstr ""
+
+#: role_handling.py:10
+msgid "{0} has the following roles: "
+msgstr ""
+
+#: role_handling.py:20
+msgid "{0} does not have any roles assigned."
+msgstr ""
+
+#: role_handling.py:44
+msgid "Added {0} to @{1}"
+msgstr ""
+
+#: role_handling.py:51
+msgid "Removed {0} from @{1}"
+msgstr ""
+

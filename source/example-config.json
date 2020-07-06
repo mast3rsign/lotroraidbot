@@ -1,0 +1,14 @@
+{
+  "BOT_TOKEN": "Token goes here",
+  "CLASSES": ["Beorning","Burglar","Captain","Champion","Guardian","Hunter","Loremaster","Minstrel","Runekeeper","Warden"],
+  "LINEUP": ["0000100001","0010000000","1000000110","1000000110","0000001000","0100000000","0010000000","0101010011","0101010011","0101010011","0101010011","0101010011"],
+  "CHANNELS": {
+    "BOT": "bot-commands",
+    "APPLY": "applications"
+  },
+  "LEADER": "Raid Leader",
+  "SERVER_TZ": "America/New_York",
+  "TIMEZONES": ["America/Los_Angeles", "Europe/London", "Australia/Sydney"],
+  "PREFIX": "!",
+  "LANGUAGE": "en"
+}
