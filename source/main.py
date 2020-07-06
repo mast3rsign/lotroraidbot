@@ -205,5 +205,5 @@ async def about(ctx):
     await ctx.send(embed=embed)
 
 
-bot.run(process.env.token)
+bot.run(token)
 logger.info("Shutting down.")
